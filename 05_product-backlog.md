@@ -9,4 +9,4 @@ PB8 As an admin, I want to add new running shoes to the system so that users can
 PB9 As an admin, I want to update shoe information so that the system shows accurate details.
 PB10 As an admin, I want to manage rental records so that I can track shoe usage.
 PB11 As an admin, I want to manage user accounts so that I can maintain the system.
-PB12 As a user, I want to receive notifications about rental status and due dates so that I return shoes on time.
+PB12 As a user, I want to receive notifications about rental status and due dates so that I return shoes on time. 
