@@ -4,4 +4,4 @@ let shoes = [
 ];
 
 console.log(shoes[0].id, shoes[0].brand, shoes[0].model, shoes[0].price);
-console.log(shoes[1].id, shoes[1].brand, shoes[1].model, shoes[1].price);
+console.log(shoes[1].id, shoes[1].brand, shoes[1].model, shoes[1].price); 
