@@ -25,7 +25,7 @@ CREATE TABLE Ingredients (
     
 -- 4. Create MenuItems Table
 CREATE TABLE MenuItems (
-    item_id SERIAL PRIMARY KEY,
+    item_id SERIAL PRIMARY KEY, 
     name VARCHAR(255) NOT NULL UNIQUE,
     description TEXT,
     price DECIMAL(10, 2) NOT NULL,
@@ -54,4 +54,4 @@ CREATE TABLE OrderItems (
     order_id INTEGER NOT NULL REFERENCES Orders(order_id),
     item_id INTEGER NOT NULL REFERENCES MenuItems(item_id),
     quantity INTEGER NOT NULL
-);
+); 
