@@ -7,4 +7,4 @@ VALUES
 ('Puma'),
 ('Brooks'),
 ('Saucony'),
-('Hoka');
+('Hoka'); 
